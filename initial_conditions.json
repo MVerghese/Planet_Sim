@@ -1,0 +1,14 @@
+{
+    "Earth": {
+        "mass": 5.972e24,
+        "radius": 6.378e6,
+        "position": [0, 0, 0],
+        "velocity": [0, 0, 0]
+    },
+    "Moon": {
+        "mass": 7.34767309e22,
+        "radius": 1.7374e3,
+        "position": [3.84400e8, 0, 0],
+        "velocity": [0, 1022, 0]
+    }
+}

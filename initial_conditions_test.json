@@ -1,0 +1,14 @@
+{
+    "Obj 1": {
+        "mass": 2e4,
+        "radius": 1,
+        "position": [-5, 0, 0],
+        "velocity": [0, -5, 0]
+    },
+    "Obj 2": {
+        "mass": 2e4,
+        "radius": 1,
+        "position": [5, 0, 0],
+        "velocity": [0, 5, 0]
+    }
+}
