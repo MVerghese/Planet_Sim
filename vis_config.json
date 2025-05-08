@@ -1,0 +1,18 @@
+{
+    "Earth": {
+        "color": "#6db0f2",
+        "radius": 6371e3
+    },
+    "Moon": {
+        "color": "#bbbdbf",
+        "radius": 1737.4e3
+    },
+    "Obj 1": {
+        "color": "#ff0000",
+        "radius": 1
+    },
+    "Obj 2": {
+        "color": "#00ff00",
+        "radius": 1
+    }
+}
